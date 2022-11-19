@@ -47,9 +47,9 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html"><img src="https://www.vilacriativa.com.br/wp-content/uploads/2019/09/qatar_2022_logo.jpg"> </a></h1>
+      <h1 class="logo"><a href="index.php"><img src="https://www.vilacriativa.com.br/wp-content/uploads/2019/09/qatar_2022_logo.jpg"> </a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
+      <!-- <a href="index.php" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
