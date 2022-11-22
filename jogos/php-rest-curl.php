@@ -36,7 +36,7 @@ class RestCurl
       'Accept: application/json',
       'Content-Type: application/json',
       "Accept: */*",
-      "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc1OTUyMWZkOWFhYzIyNjcyYTFkYTkiLCJpYXQiOjE2NjkwMjk3NTAsImV4cCI6MTY2OTExNjE1MH0.b0BpF_M3Fo_FtBED5lq2dB0MjWu80Yhl-hCIo0gyTYs",
+      "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc3N2M1NGZkOWFhYzIyNjczZTc3ZTAiLCJpYXQiOjE2NjkxMTc0NTMsImV4cCI6MTY2OTIwMzg1M30.4Un1_nASCw6yQ1Rd-wyXuY8-PjM56cKSbWpZs2M-FvQ",
       "User-Agent: Thunder Client (https://www.thunderclient.com)",
     ));
     curl_setopt($curl, CURLOPT_URL, $url);
@@ -75,3 +75,6 @@ class RestCurl
     return RestCurl::exec("DELETE", $url, $obj);
   }
 }
+
+
+
