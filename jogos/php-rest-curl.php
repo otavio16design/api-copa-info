@@ -36,7 +36,7 @@ class RestCurl
       'Accept: application/json',
       'Content-Type: application/json',
       "Accept: */*",
-      "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc3N2M1NGZkOWFhYzIyNjczZTc3ZTAiLCJpYXQiOjE2NjkyNDA1MzgsImV4cCI6MTY2OTMyNjkzOH0.mZvyFhfdX27phmg6m8fVGvZyRcVmj4TkCkLm56f8ros",
+      "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc3N2M1NGZkOWFhYzIyNjczZTc3ZTAiLCJpYXQiOjE2NjkzNzMyNjAsImV4cCI6MTY2OTQ1OTY2MH0.hxTcdD6JeQnihstFDRKA48NWiVl9cEy6Xmx8UjR1I-E",
       "User-Agent: Thunder Client (https://www.thunderclient.com)",
     ));
     curl_setopt($curl, CURLOPT_URL, $url);

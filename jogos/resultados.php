@@ -19,8 +19,8 @@ $data = $result['data']->data;
 
 <head>
     <link rel="stylesheet" href="all.css">
+    <title>Jogos Copa 2022</title>
 </head>
-
 <body>
 
     <div >
